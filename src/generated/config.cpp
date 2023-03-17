@@ -5,6 +5,6 @@ uint32_t configVersion = 3113778868; //generated identifier to compare config wi
 
 const configData defaults PROGMEM =
 {
-	"ESP8266 IoT Framework",
+	"Sistemas Informaticos",
 	"en"
 };
